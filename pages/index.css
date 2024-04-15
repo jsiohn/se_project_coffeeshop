@@ -32,7 +32,7 @@
   left: 30px;
 }
 
-.nav__list {
+.nav__links {
   display: flex;
   list-style-type: none;
   padding: 30px 80px 0 0;
@@ -41,7 +41,7 @@
   font-weight: 500;
 }
 
-.nav__list-item-link {
+.nav__link-item {
   text-decoration: none;
 }
 
