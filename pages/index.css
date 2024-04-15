@@ -41,6 +41,10 @@
   font-weight: 500;
 }
 
+.nav__link {
+  text-decoration: none;
+}
+
 .header__title {
   margin: 0;
   max-width: 729px;
