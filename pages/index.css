@@ -231,19 +231,20 @@
 }
 
 .menu__title {
-  max-width: 780px;
   text-align: center;
-  margin: 100 0 24px;
 }
 
 .menu__subtitle {
-  max-width: 780px;
   text-align: center;
-  margin-bottom: 100px;
+}
+
+.menu__cards {
+  margin: auto auto;
+  display: flex;
+  flex-direction: row;
 }
 
 .card {
-  display: flex;
   width: 540px;
 }
 
@@ -255,6 +256,7 @@
 .card__list {
   list-style-type: none;
   display: flex;
+  flex-direction: column;
   gap: 16px;
 }
 
