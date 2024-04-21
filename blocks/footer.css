@@ -1,0 +1,7 @@
+.footer {
+  background: linear-grdient (180deg, #0a2850 0%, #071931 100%);
+}
+
+.footer__list {
+  list-style-type: none;
+}
