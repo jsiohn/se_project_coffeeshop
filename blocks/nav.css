@@ -16,10 +16,15 @@
   list-style-type: none;
   padding: 30px 80px 0 0;
   gap: 20px;
-  font-family: "Inter";
-  font-weight: 500;
 }
 
 .nav__link {
   text-decoration: none;
+  color: #000;
+  font-weight: 500;
+}
+
+.nav__link:hover {
+  color: #2f80ed;
+  transition: color 0.3s linear;
 }
