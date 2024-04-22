@@ -43,7 +43,7 @@
 
 .form__button {
   height: 60px;
-  border: 1px solid #838383;
+  border: 0;
   border-radius: 4px;
   margin: 0 0 32px 0;
   opacity: 100%;
