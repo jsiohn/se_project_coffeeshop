@@ -13,7 +13,7 @@
   font-weight: 500;
 }
 
-.form__label_checkbox {
+.form__label_type_checkbox {
   display: flex;
   justify-content: center;
   gap: 12px;

@@ -52,14 +52,15 @@
 .header__footer {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
   margin-top: auto;
   padding: 0 80px 40px;
+  z-index: 1;
 }
 
-.header__footer_hours {
+.header__hours {
   margin: 0;
   padding: 0;
-
   flex-direction: column;
   list-style-type: none;
 }
